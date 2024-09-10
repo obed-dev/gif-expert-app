@@ -54,7 +54,8 @@ Once the app is running, you can enter search terms into the search bar to find 
 Desktop view
 
 
-![festival desktop view](https://github.com/user-attachments/assets/12f4e83a-74cb-438a-a682-a7f8fec6372a)
+
+![desktop view gif expert app](https://github.com/user-attachments/assets/18d3c302-ee2a-4e7c-9b04-81afc911efb0)
 
 
 
@@ -64,7 +65,8 @@ Mobile View
 
 
 
-![festival screen shot mobile](https://github.com/user-attachments/assets/5e7b6c9f-41f2-44ba-a200-b3b81ee15519)
 
+
+![mobile view gif expert app](https://github.com/user-attachments/assets/6c37d1b6-7f7a-46b4-acc0-3e4cb6736020)
 
 
